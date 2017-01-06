@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress.com" created="2017-01-06 00:45"-->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Short Stories Podcast</title>
+	<link>http://shortstoriespodcast.com</link>
+	<description>For the love of a good story. </description>
+	<pubDate>Fri, 06 Jan 2017 00:45:33 +0000</pubDate>
+	<language></language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
+	<wp:base_blog_url>http://shortstoriespodcast.com</wp:base_blog_url>
+
+	<wp:author><wp:author_id>63332539</wp:author_id><wp:author_login><![CDATA[adamscottsnyder]]></wp:author_login><wp:author_email><![CDATA[adamscottsnyder@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Adam Snyder]]></wp:author_display_name><wp:author_first_name><![CDATA[Adam]]></wp:author_first_name><wp:author_last_name><![CDATA[Snyder]]></wp:author_last_name></wp:author>
+
+	<wp:category><wp:term_id>2060</wp:term_id><wp:category_nicename>podcasts</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Podcasts]]></wp:cat_name>
+</wp:category>
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+</wp:category>
+	<wp:tag><wp:term_id>23463</wp:term_id><wp:tag_slug>short</wp:tag_slug><wp:tag_name><![CDATA[short]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>546</wp:term_id><wp:tag_slug>short-stories</wp:tag_slug><wp:tag_name><![CDATA[short stories]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>955</wp:term_id><wp:tag_slug>stories</wp:tag_slug><wp:tag_name><![CDATA[stories]]></wp:tag_name>
+</wp:tag>
+	<wp:term><wp:term_id>1642</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>5463</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
+</wp:term>
+
+	<generator>http://wordpress.com/</generator>
+	
+	<item>
+		<title>About</title>
+		<link>http://shortstoriespodcast.com/about-2/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/about-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Short Stories Podcast is an attempt to bring the classic short story format back into the ears and minds of as many people as possible.
+
+It used to be (not too many years ago) that you might read a short story while on your lunch break at work or in between classes in school.  You would do so without the stated intention of expanding your mind, or even to just pass a class.  And most certainly, you didn't do so to impress a friend.
+
+You did so because of the love of a good story.  
+
+Welcome to shortstoriespodcast.com, where we try and bring back the simple pleasure of enjoying short fiction in small doses.
+
+Thanks for listening!]]></content:encoded>
+		<excerpt:encoded><![CDATA[This is just a short excerpt for the about&nbsp;page.]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>about-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_headstart_post</wp:meta_key>
+			<wp:meta_value><![CDATA[_hs_about_page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>sharing_disabled</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>switch_like_status</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Submit a Story</title>
+		<link>http://shortstoriespodcast.com/contact/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/contact/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Submit a story to Short Stories Podcast by filling out the form below.
+
+Submission guidelines:
+<ul>
+	<li>Story has to be less than 20,000 words.  I love some 500 word stories.  I love some 20,000 word stories.  I'd be interested in anything in between. If it's a good story.</li>
+	<li>Story has to be a good story.</li>
+	<li>There is no specific genre I am interested in.  I just want to hear a good story.</li>
+	<li>NSFW is fine.  Or not.  It can be as candy as Disney, or as rough as Bret Easton Ellis, or anywhere in between.  Just tell me a good story.</li>
+</ul>
+To submit a story, simply establish contact with me by filling out the form below, letting me know the word count of your story, with a brief synopsis of what the story is about.  From there I'll reach out to you if I'm interested in reading the story, and production will begin shortly thereafter if I'm into it.
+
+Cheers and thanks for considering submitting a story to this podcast!
+
+[contact-form][contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Number of words in your story" type="text" required="1" /][contact-field label="Brief synopsis of the story" type="text" required="1" /][/contact-form]]]></content:encoded>
+		<excerpt:encoded><![CDATA[Submit a story to Short Stories Podcast]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>contact</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_headstart_post</wp:meta_key>
+			<wp:meta_value><![CDATA[_hs_contact_page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>sharing_disabled</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>switch_like_status</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_g_feedback_shortcode</wp:meta_key>
+			<wp:meta_value><![CDATA[[contact-field label="Name" type="name" required="1" /][contact-field label="Email" type="email" required="1" /][contact-field label="Number of words in your story" type="text" required="1" /][contact-field label="Brief synopsis of the story" type="text" required="1" /]]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>short_stories_podcast_itunes.jpg</title>
+		<link>http://shortstoriespodcast.com/short_stories_podcast_itunes-jpg/</link>
+		<pubDate>Mon, 11 Apr 2016 04:42:08 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[http://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes.jpg]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date>2016-04-11 04:42:08</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 04:42:08</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>short_stories_podcast_itunes-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:5:"thumb";s:40:"short_stories_podcast_itunes-600x600.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_podcast_itunes.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Show #1- The Waterworks Plot by Alpert L. Pine</title>
+		<link>http://shortstoriespodcast.com/2016/04/11/show-1-the-waterworks-plot-by-alpert-l-pine/</link>
+		<pubDate>Mon, 11 Apr 2016 05:24:51 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[A story of conspiracy, or perhaps insanity.  Up to you to decide.
+
+[audio http://traffic.libsyn.com/shortstoriespodcast/Show_1-_The_Waterworks_Plot_by_Alpert_L._Pine.mp3 ]]]></content:encoded>
+		<excerpt:encoded><![CDATA[A story of conspiracy, or perhaps insanity.  Up to you to decide. ]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date>2016-04-11 05:24:51</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 05:24:51</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>show-1-the-waterworks-plot-by-alpert-l-pine</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="podcasts"><![CDATA[Podcasts]]></category>
+		<category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
+		<category domain="post_tag" nicename="short-stories"><![CDATA[short stories]]></category>
+		<wp:postmeta>
+			<wp:meta_key>geo_latitude</wp:meta_key>
+			<wp:meta_value><![CDATA[45.5830549]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>geo_longitude</wp:meta_key>
+			<wp:meta_value><![CDATA[-122.70287069999999]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_45a930f4b150917e33755be4ff95f551</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[21682455229]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>enclosure</wp:meta_key>
+			<wp:meta_value><![CDATA[http://traffic.libsyn.com/shortstoriespodcast/Show_1-_The_Waterworks_Plot_by_Alpert_L._Pine.mp3
+30981142
+audio/mpeg
+]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://shortstoriespodcast.com/2015/11/02/6/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/2015/11/02/6/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>6</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://shortstoriespodcast.com/2015/11/02/7/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/2015/11/02/7/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>7</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Facebook</title>
+		<link>http://shortstoriespodcast.com/2015/11/02/facebook/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/2015/11/02/facebook/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>facebook</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.facebook.com/shortstoriespodcast/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Twitter</title>
+		<link>http://shortstoriespodcast.com/2015/11/02/twitter/</link>
+		<pubDate>Mon, 02 Nov 2015 06:09:47 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.wordpress.com/2015/11/02/twitter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date>2015-11-02 06:09:47</wp:post_date>
+		<wp:post_date_gmt>2015-11-02 06:09:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>twitter</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://twitter.com/shortstoriespod]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Subscribe in Stitcher</title>
+		<link>http://shortstoriespodcast.com/2016/04/13/subscribe-in-stitcher/</link>
+		<pubDate>Wed, 13 Apr 2016 18:12:41 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/2016/04/13/subscribe-in-stitcher/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date>2016-04-13 18:12:41</wp:post_date>
+		<wp:post_date_gmt>2016-04-13 18:12:41</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>subscribe-in-stitcher</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[http://www.stitcher.com/s?fid=87743&refid=stpr]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Subscribe in iTunes</title>
+		<link>http://shortstoriespodcast.com/2016/04/13/subscribe-in-itunes/</link>
+		<pubDate>Wed, 13 Apr 2016 18:10:34 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/2016/04/13/subscribe-in-itunes/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date>2016-04-13 18:10:34</wp:post_date>
+		<wp:post_date_gmt>2016-04-13 18:10:34</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>subscribe-in-itunes</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://itunes.apple.com/us/podcast/short-stories-podcast/id1102540678]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Short_Stories_Banner</title>
+		<link>http://shortstoriespodcast.com/short_stories_banner/</link>
+		<pubDate>Mon, 11 Apr 2016 04:44:18 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_banner.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date>2016-04-11 04:44:18</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 04:44:18</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>short_stories_banner</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_banner-e1460504928305.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:851;s:6:"height";i:315;s:4:"file";s:112:"/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_banner-e1460504928305.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_backup_sizes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"full-orig";a:3:{s:5:"width";i:851;s:6:"height";i:315;s:4:"file";s:24:"short_stories_banner.jpg";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_banner-e1460504928305.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Short_Stories_Podcast_ITunes</title>
+		<link>http://shortstoriespodcast.com/short_stories_podcast_itunes/</link>
+		<pubDate>Mon, 11 Apr 2016 04:45:17 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date>2016-04-11 04:45:17</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 04:45:17</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>short_stories_podcast_itunes</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes2.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_podcast_itunes2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:106:"/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_podcast_itunes2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Adam intact request - 2016-04-11 18:59:20</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=38</link>
+		<pubDate>Mon, 11 Apr 2016 18:59:20 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=38</guid>
+		<description></description>
+		<content:encoded><![CDATA[Testing contact form
+<!--more-->
+AUTHOR: Adam intact request
+AUTHOR EMAIL: adam.snyder@icebreaker.con
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Contact
+IP: 166.176.184.53
+Array
+(
+    [1_Name] =&gt; Adam intact request
+    [2_Email] =&gt; adam.snyder@icebreaker.con
+    [3_Website] =&gt; 
+    [4_Comment] =&gt; Testing contact form 
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date>2016-04-11 18:59:20</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 18:59:20</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>6118a45ea4302d290506e18e644feff2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:356:"<b>Name:</b> Adam intact request<br /><br />
+<b>Email:</b> adam.snyder@icebreaker.con<br /><br />
+<b>Website:</b> <br /><br />
+<b>Comment:</b> Testing contact form<br /><br />
+
+Time: April 11, 2016 at 6:59 pm<br />
+IP Address: 166.176.184.53<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Show #2- Break by Jessica Dylan Miele</title>
+		<link>http://shortstoriespodcast.com/2016/04/24/show-2-break-by-jessica-dylan-miele/</link>
+		<pubDate>Sun, 24 Apr 2016 05:40:37 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[A beautiful magic realism short story by author Jessica Dylan Miele.  I hope you enjoy.
+
+[audio http://traffic.libsyn.com/shortstoriespodcast/Show_2-_Break_by_Jessica_Dylan_Miele.mp3 ]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date>2016-04-24 05:40:37</wp:post_date>
+		<wp:post_date_gmt>2016-04-24 05:40:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>show-2-break-by-jessica-dylan-miele</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="podcasts"><![CDATA[Podcasts]]></category>
+		<category domain="post_tag" nicename="short"><![CDATA[short]]></category>
+		<category domain="post_tag" nicename="stories"><![CDATA[stories]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>enclosure</wp:meta_key>
+			<wp:meta_value><![CDATA[http://traffic.libsyn.com/shortstoriespodcast/Show_2-_Break_by_Jessica_Dylan_Miele.mp3
+11632557
+audio/mpeg
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[22104234879]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Short Stories and Essays]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>http://jessicareads.com/2015/09/27/814/</wp:comment_author_url>
+			<wp:comment_author_IP>192.0.113.139</wp:comment_author_IP>
+			<wp:comment_date>2016-04-25 01:46:45</wp:comment_date>
+			<wp:comment_date_gmt>2016-04-25 01:46:45</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[&#8230;] Break [&#8230;]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1461548806.1790950298309326171875;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1461548949]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1461548950.1554739475250244140625;s:5:"event";s:15:"status-approved";s:4:"user";s:15:"adamscottsnyder";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Submit a Story</title>
+		<link>http://shortstoriespodcast.com/?page_id=45</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?page_id=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date>2016-04-25 03:11:33</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Subscribe</title>
+		<link>http://shortstoriespodcast.com/subscribe/</link>
+		<pubDate>Tue, 26 Apr 2016 04:07:44 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?page_id=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[Subscribe to this podcast to get automatically updated when new episodes publish.
+<p class="p1">There are lots of ways to listen.</p>
+<p class="p1">Subscribe in: <a href="https://itunes.apple.com/us/podcast/short-stories-podcast/id1102540678">iTunes</a></p>
+<p class="p1">Check it out on the <a href="http://www.stitcher.com/s?fid=87743&amp;refid=stpr">Stitcher</a></p>
+<p class="p1">Or Use the raw RSS feed with the podcast app of your choice: http://shortstoriespodcast.com/category/podcasts/feed/</p>
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[Subscribe to Short Stories Podcast]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date>2016-04-26 04:07:44</wp:post_date>
+		<wp:post_date_gmt>2016-04-26 04:07:44</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>subscribe</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_02a25a7b609e27c80f391fa59bcc074d</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://shortstoriespodcast.com/2016/04/26/60/</link>
+		<pubDate>Tue, 26 Apr 2016 04:09:31 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/2016/04/26/60/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date>2016-04-26 04:09:31</wp:post_date>
+		<wp:post_date_gmt>2016-04-26 04:09:31</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>60</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-short_stories_banner-e1460504928305.jpg</title>
+		<link>http://shortstoriespodcast.com/cropped-short_stories_banner-e1460504928305-jpg/</link>
+		<pubDate>Tue, 26 Apr 2016 04:38:21 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.files.wordpress.com/2016/04/cropped-short_stories_banner-e1460504928305.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date>2016-04-26 04:38:21</wp:post_date>
+		<wp:post_date_gmt>2016-04-26 04:38:21</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>cropped-short_stories_banner-e1460504928305-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/cropped-short_stories_banner-e1460504928305.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/cropped-short_stories_banner-e1460504928305.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:937;s:6:"height";i:347;s:4:"file";s:120:"/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/cropped-short_stories_banner-e1460504928305.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_custom_header_last_used_pub/penscratch</wp:meta_key>
+			<wp:meta_value><![CDATA[1461645502]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
+			<wp:meta_value><![CDATA[pub/penscratch]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Support</title>
+		<link>http://shortstoriespodcast.com/support/</link>
+		<pubDate>Tue, 26 Apr 2016 21:00:41 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?page_id=62</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p class="module-header" style="text-align:left;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=WF9DD3RPEGDG4"><img src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" alt="Buy Now Button" /></a></p>
+
+<ul>
+	<li>If you are enjoying Short Stories Podcast, please consider supporting the show so that I can continue to produce new episodes.  Click the link, head over to Paypal, and pay any amount you'd like.  Thanks!</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date>2016-04-26 21:00:41</wp:post_date>
+		<wp:post_date_gmt>2016-04-26 21:00:41</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>support</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-short_stories_banner-e14605049283051.jpg</title>
+		<link>http://shortstoriespodcast.com/cropped-short_stories_banner-e14605049283051-jpg/</link>
+		<pubDate>Tue, 26 Apr 2016 21:16:46 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcastcom.files.wordpress.com/2016/04/cropped-short_stories_banner-e14605049283051.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date>2016-04-26 21:16:46</wp:post_date>
+		<wp:post_date_gmt>2016-04-26 21:16:46</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>cropped-short_stories_banner-e14605049283051-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/cropped-short_stories_banner-e14605049283051.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/cropped-short_stories_banner-e14605049283051.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:414;s:4:"file";s:121:"/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/cropped-short_stories_banner-e14605049283051.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_custom_header_last_used_pub/twentysixteen</wp:meta_key>
+			<wp:meta_value><![CDATA[1461705452]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
+			<wp:meta_value><![CDATA[pub/twentysixteen]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Short_Stories_Podcast_ITunes</title>
+		<link>http://shortstoriespodcast.com/short_stories_podcast_itunes-2/</link>
+		<pubDate>Thu, 28 Apr 2016 05:40:52 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date>2016-04-28 05:40:52</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 05:40:52</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>short_stories_podcast_itunes-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://shortstoriespodcastcom.files.wordpress.com/2016/04/short_stories_podcast_itunes3.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_podcast_itunes3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:106:"/home/wpcom/public_html/wp-content/blogs.dir/315/102081675/files/2016/04/short_stories_podcast_itunes3.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Josh Wagner - 2016-04-28 11:29:59</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=80</link>
+		<pubDate>Thu, 28 Apr 2016 11:29:59 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Josh Wagner
+AUTHOR EMAIL: fiction.clemens@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 107.170.32.12
+Array
+(
+    [1_Name] =&gt; Josh Wagner
+    [2_Email] =&gt; fiction.clemens@gmail.com
+    [3_Number of words in your story] =&gt; 3130
+    [4_Brief synopsis of the story] =&gt; Albert Mumps, presidential candidate and billionaire, struggles to free himself from the dark influence of his hairpiece before it's too late. 
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date>2016-04-28 11:29:59</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 11:29:59</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>f13774e38bf840529f1b1e04a6509065</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:4:"3130";s:29:"6_Brief synopsis of the story";s:143:"Albert Mumps, presidential candidate and billionaire, struggles to free himself from the dark influence of his hairpiece before it's too late. ";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:516:"<b>Name:</b> Josh Wagner<br /><br />
+<b>Email:</b> fiction.clemens@gmail.com<br /><br />
+<b>Number of words in your story:</b> 3130<br /><br />
+<b>Brief synopsis of the story:</b> Albert Mumps, presidential candidate and billionaire, struggles to free himself from the dark influence of his hairpiece before it's too late. <br /><br />
+
+Time: April 28, 2016 at 11:29 am<br />
+IP Address: 107.170.32.12<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Josh Wagner - 2016-04-28 11:31:06</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=81</link>
+		<pubDate>Thu, 28 Apr 2016 11:31:06 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=81</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Josh Wagner
+AUTHOR EMAIL: fiction.clemens@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 107.170.32.12
+Array
+(
+    [1_Name] =&gt; Josh Wagner
+    [2_Email] =&gt; fiction.clemens@gmail.com
+    [3_Number of words in your story] =&gt; 1012
+    [4_Brief synopsis of the story] =&gt; Gladdis, an old woman with strange secret fantasies, learns to overcome her prejudices about the boy next door
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date>2016-04-28 11:31:06</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 11:31:06</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>91e623d603dcc4970f2933f9d74d8229</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:4:"1012";s:29:"6_Brief synopsis of the story";s:110:"Gladdis, an old woman with strange secret fantasies, learns to overcome her prejudices about the boy next door";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:483:"<b>Name:</b> Josh Wagner<br /><br />
+<b>Email:</b> fiction.clemens@gmail.com<br /><br />
+<b>Number of words in your story:</b> 1012<br /><br />
+<b>Brief synopsis of the story:</b> Gladdis, an old woman with strange secret fantasies, learns to overcome her prejudices about the boy next door<br /><br />
+
+Time: April 28, 2016 at 11:31 am<br />
+IP Address: 107.170.32.12<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>smwedbush - 2016-04-28 13:29:27</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=82</link>
+		<pubDate>Thu, 28 Apr 2016 13:29:27 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: smwedbush
+AUTHOR EMAIL: writer30@hotmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 216.249.145.192
+Array
+(
+    [1_Name] =&gt; smwedbush
+    [2_Email] =&gt; writer30@hotmail.com
+    [3_Number of words in your story] =&gt; 455
+    [4_Brief synopsis of the story] =&gt; My short story "When He Leaves" is a brief, one scene story where the narrator's husband has just left her. The story explores these feelings.
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date>2016-04-28 13:29:27</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 13:29:27</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>80bfc7462ceb0bea023633ee2789b744</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:3:"455";s:29:"6_Brief synopsis of the story";s:142:"My short story "When He Leaves" is a brief, one scene story where the narrator's husband has just left her. The story explores these feelings.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:504:"<b>Name:</b> smwedbush<br /><br />
+<b>Email:</b> writer30@hotmail.com<br /><br />
+<b>Number of words in your story:</b> 455<br /><br />
+<b>Brief synopsis of the story:</b> My short story "When He Leaves" is a brief, one scene story where the narrator's husband has just left her. The story explores these feelings.<br /><br />
+
+Time: April 28, 2016 at 1:29 pm<br />
+IP Address: 216.249.145.192<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+
+Sent by a verified WordPress.com user.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Ben - 2016-04-28 15:21:10</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=83</link>
+		<pubDate>Thu, 28 Apr 2016 15:21:10 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Ben
+AUTHOR EMAIL: ben@werival.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 98.247.245.50
+Array
+(
+    [1_Name] =&gt; Ben
+    [2_Email] =&gt; ben@werival.com
+    [3_Number of words in your story] =&gt; 700
+    [4_Brief synopsis of the story] =&gt; A down-on-his-luck man goes into a bodega looking for his nightly drink and finds he's at the wrong place at the right time to walk away with a distinctly brighter future. 
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date>2016-04-28 15:21:10</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 15:21:10</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>4c1653fdf5abd08e7a4d6332c058a214</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:3:"700";s:29:"6_Brief synopsis of the story";s:172:"A down-on-his-luck man goes into a bodega looking for his nightly drink and finds he's at the wrong place at the right time to walk away with a distinctly brighter future. ";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:525:"<b>Name:</b> Ben<br /><br />
+<b>Email:</b> ben@werival.com<br /><br />
+<b>Number of words in your story:</b> 700<br /><br />
+<b>Brief synopsis of the story:</b> A down-on-his-luck man goes into a bodega looking for his nightly drink and finds he's at the wrong place at the right time to walk away with a distinctly brighter future. <br /><br />
+
+Time: April 28, 2016 at 3:21 pm<br />
+IP Address: 98.247.245.50<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Darrel Shand - 2016-04-28 17:26:26</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=84</link>
+		<pubDate>Thu, 28 Apr 2016 17:26:26 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=84</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Darrel Shand
+AUTHOR EMAIL: brainfroze@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 23.30.237.149
+Array
+(
+    [1_Name] =&gt; Darrel Shand
+    [2_Email] =&gt; brainfroze@gmail.com
+    [3_Number of words in your story] =&gt; 1255
+    [4_Brief synopsis of the story] =&gt; A story of loss and regret, the memories of a happy life, and a progression of depression
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date>2016-04-28 17:26:26</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 17:26:26</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>b7857e77857e6af217b3fe0733262e42</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:4:"1255";s:29:"6_Brief synopsis of the story";s:89:"A story of loss and regret, the memories of a happy life, and a progression of depression";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:457:"<b>Name:</b> Darrel Shand<br /><br />
+<b>Email:</b> brainfroze@gmail.com<br /><br />
+<b>Number of words in your story:</b> 1255<br /><br />
+<b>Brief synopsis of the story:</b> A story of loss and regret, the memories of a happy life, and a progression of depression<br /><br />
+
+Time: April 28, 2016 at 5:26 pm<br />
+IP Address: 23.30.237.149<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Raymond Chase - 2016-04-28 19:30:22</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=85</link>
+		<pubDate>Thu, 28 Apr 2016 19:30:22 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=85</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Raymond Chase
+AUTHOR EMAIL: rmittan@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 107.199.149.175
+Array
+(
+    [1_Name] =&gt; Raymond Chase
+    [2_Email] =&gt; rmittan@gmail.com
+    [3_Number of words in your story] =&gt; 326
+    [4_Brief synopsis of the story] =&gt; Very short.  Guy argues with his wife and then considers the nature of motion.  Aspirating "esses" is important to the story, which is impossible to fully explain.
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date>2016-04-28 19:30:22</wp:post_date>
+		<wp:post_date_gmt>2016-04-28 19:30:22</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>0d88d867723a7f223d36fe85a24d57ea</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:3:"326";s:29:"6_Brief synopsis of the story";s:163:"Very short.  Guy argues with his wife and then considers the nature of motion.  Aspirating "esses" is important to the story, which is impossible to fully explain.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:530:"<b>Name:</b> Raymond Chase<br /><br />
+<b>Email:</b> rmittan@gmail.com<br /><br />
+<b>Number of words in your story:</b> 326<br /><br />
+<b>Brief synopsis of the story:</b> Very short.  Guy argues with his wife and then considers the nature of motion.  Aspirating "esses" is important to the story, which is impossible to fully explain.<br /><br />
+
+Time: April 28, 2016 at 7:30 pm<br />
+IP Address: 107.199.149.175<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Anna Tängdén - 2016-04-30 11:38:08</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=86</link>
+		<pubDate>Sat, 30 Apr 2016 11:38:08 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: Anna Tängdén
+AUTHOR EMAIL: frk.bjorck@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 37.123.183.138
+Array
+(
+    [1_Name] =&gt; Anna Tängdén
+    [2_Email] =&gt; frk.bjorck@gmail.com
+    [3_Number of words in your story] =&gt; 931
+    [4_Brief synopsis of the story] =&gt; Fable type story. An old man loses his animals one by one, and replaces them with wooden replicas. When his last hens die, he replaces them as well as himself.  https://www.reddit.com/r/shortstories/comments/4gu3bg/mfthe_old_man_in_the_woods/
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date>2016-04-30 11:38:08</wp:post_date>
+		<wp:post_date_gmt>2016-04-30 11:38:08</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>79f266c5a72f42b0002fa593b976357c</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:3:"931";s:29:"6_Brief synopsis of the story";s:242:"Fable type story. An old man loses his animals one by one, and replaces them with wooden replicas. When his last hens die, he replaces them as well as himself.  https://www.reddit.com/r/shortstories/comments/4gu3bg/mfthe_old_man_in_the_woods/";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:613:"<b>Name:</b> Anna Tängdén<br /><br />
+<b>Email:</b> frk.bjorck@gmail.com<br /><br />
+<b>Number of words in your story:</b> 931<br /><br />
+<b>Brief synopsis of the story:</b> Fable type story. An old man loses his animals one by one, and replaces them with wooden replicas. When his last hens die, he replaces them as well as himself.  https://www.reddit.com/r/shortstories/comments/4gu3bg/mfthe_old_man_in_the_woods/<br /><br />
+
+Time: April 30, 2016 at 11:38 am<br />
+IP Address: 37.123.183.138<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+Sent by an unverified visitor to your site.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Show #3- The Ticket by Ben Reese</title>
+		<link>http://shortstoriespodcast.com/?p=87</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?p=87</guid>
+		<description></description>
+		<content:encoded><![CDATA["I was counting change to see if I could afford a Slim Jim with my bottle when it started..."
+
+And so begins the Ben Reese exciting crime drama short story The Ticket. 
+
+Ben Reese is an ex-reporter, an ex-editor for a famous dotcom, and currently partner in an advertising firm. He was born on Leap Day and once lost a goat-milking contest to a member of the US House of Representatives (Note: the Rep cheated). Ben lives in Seattle with his wife, two sons, small dog, and a voracious tortoise named Claire.
+
+
+And here are links to my sad Facebook page and other lottery-related crime tales:
+
+FB - https://www.facebook.com/bhreese4/
+
+La Loteria - https://www.redfez.net/fiction/pulp-la-loteria-622
+
+The Ticket - http://shotgunhoney.net/fiction/the-ticket-by-ben-reese.html
+
+The Losing Ticket - http://overmydeadbody.com/lsngtckt.html
+
+Odds Man Out - https://www.redfez.net/fiction/lotto-odds-man-out-740
+
+[audio http://traffic.libsyn.com/shortstoriespodcast/Show_2-_Break_by_Jessica_Dylan_Miele.mp3 ]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date>2016-05-06 06:21:42</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Show #3- The Ticket by Ben Reese</title>
+		<link>http://shortstoriespodcast.com/?p=91</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?p=91</guid>
+		<description></description>
+		<content:encoded><![CDATA["I was counting change to see if I could afford a Slim Jim with my bottle when it started..."
+
+And so begins the Ben Reese exciting crime drama short story The Ticket. 
+
+Ben Reese is an ex-reporter, an ex-editor for a famous dotcom, and currently partner in an advertising firm. He was born on Leap Day and once lost a goat-milking contest to a member of the US House of Representatives (Note: the Rep cheated). Ben lives in Seattle with his wife, two sons, small dog, and a voracious tortoise named Claire.
+
+
+And here are links to my sad Facebook page and other lottery-related crime tales:
+
+FB - https://www.facebook.com/bhreese4/
+
+La Loteria - https://www.redfez.net/fiction/pulp-la-loteria-622
+
+The Ticket - http://shotgunhoney.net/fiction/the-ticket-by-ben-reese.html
+
+The Losing Ticket - http://overmydeadbody.com/lsngtckt.html
+
+Odds Man Out - https://www.redfez.net/fiction/lotto-odds-man-out-740
+
+[audio http://traffic.libsyn.com/shortstoriespodcast/Show_3-_The_Ticket_by_Ben_Reese.mp3 ]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date>2016-05-06 06:23:42</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Show #3- The Ticket by Ben Reese</title>
+		<link>http://shortstoriespodcast.com/2016/05/06/show-3-the-ticket-by-ben-reese/</link>
+		<pubDate>Fri, 06 May 2016 06:26:29 +0000</pubDate>
+		<dc:creator>adamscottsnyder</dc:creator>
+		<guid isPermaLink="false">http://shortstoriespodcast.com/?p=93</guid>
+		<description></description>
+		<content:encoded><![CDATA["I was counting change to see if I could afford a Slim Jim with my bottle when it started..."
+
+And so begins the Ben Reese exciting crime drama short story The Ticket. 
+
+Ben Reese is an ex-reporter, an ex-editor for a famous dotcom, and currently partner in an advertising firm. He was born on Leap Day and once lost a goat-milking contest to a member of the US House of Representatives (Note: the Rep cheated). Ben lives in Seattle with his wife, two sons, small dog, and a voracious tortoise named Claire.
+
+
+And here are some links to some of his crime tales:
+
+FB - https://www.facebook.com/bhreese4/
+
+La Loteria - https://www.redfez.net/fiction/pulp-la-loteria-622
+
+The Ticket - http://shotgunhoney.net/fiction/the-ticket-by-ben-reese.html
+
+The Losing Ticket - http://overmydeadbody.com/lsngtckt.html
+
+Odds Man Out - https://www.redfez.net/fiction/lotto-odds-man-out-740
+
+[audio http://traffic.libsyn.com/shortstoriespodcast/Show_3-_The_Ticket_by_Ben_Reese.mp3 ]]]></content:encoded>
+		<excerpt:encoded><![CDATA["I was counting change to see if I could afford a Slim Jim with my bottle when it started..."
+
+And so begins the Ben Reese exciting crime drama short story The Ticket. ]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date>2016-05-06 06:26:29</wp:post_date>
+		<wp:post_date_gmt>2016-05-06 06:26:29</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>show-3-the-ticket-by-ben-reese</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="podcasts"><![CDATA[Podcasts]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>enclosure</wp:meta_key>
+			<wp:meta_value><![CDATA[http://traffic.libsyn.com/shortstoriespodcast/Show_3-_The_Ticket_by_Ben_Reese.mp3
+12706712
+audio/mpeg
+]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[22529020692]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>page0rz - 2016-10-03 10:28:23</title>
+		<link>http://shortstoriespodcast.com/?post_type=feedback&#038;p=100</link>
+		<pubDate>Mon, 03 Oct 2016 10:28:23 +0000</pubDate>
+		<dc:creator></dc:creator>
+		<guid isPermaLink="false">https://shortstoriespodcast.com/?post_type=feedback&#038;p=100</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+<!--more-->
+AUTHOR: page0rz
+AUTHOR EMAIL: page0rz@gmail.com
+AUTHOR URL: 
+SUBJECT: [Short Stories Podcast] Submit a Story
+IP: 99.232.27.80
+Array
+(
+    [1_Name] =&gt; page0rz
+    [2_Email] =&gt; page0rz@gmail.com
+    [3_Number of words in your story] =&gt; 1550
+    [4_Brief synopsis of the story] =&gt; An experimental meta-story involving the reader in a murder. I think it would work well read aloud.
+)
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date>2016-10-03 10:28:23</wp:post_date>
+		<wp:post_date_gmt>2016-10-03 10:28:23</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>de9a0364fcab09b73bfb1559df33d0db</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>feedback</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_extra_fields</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:31:"5_Number of words in your story";s:4:"1550";s:29:"6_Brief synopsis of the story";s:99:"An experimental meta-story involving the reader in a murder. I think it would work well read aloud.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_feedback_email</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:2:"to";a:1:{i:0;s:25:"adamscottsnyder@gmail.com";}s:7:"message";s:456:"<b>Name:</b> page0rz<br /><br />
+<b>Email:</b> page0rz@gmail.com<br /><br />
+<b>Number of words in your story:</b> 1550<br /><br />
+<b>Brief synopsis of the story:</b> An experimental meta-story involving the reader in a murder. I think it would work well read aloud.<br /><br />
+
+Time: October 3, 2016 at 10:28 am<br />
+IP Address: 99.232.27.80<br />
+Contact Form URL: https://shortstoriespodcast.com/contact/<br />
+
+Sent by a verified WordPress.com user.";}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>
